@@ -9,7 +9,10 @@ biopython v1.77;
 sklearn v0.24.2;  
 argparse v1.1;  
 matplotlib v3.4.3;  
-tqdm v4.55.1  
+tqdm v4.55.1;  
+xgboost v1.6.2;  
+re v2.2.1;  
+joblib v1.0.1
 # Usage  
 ## 1.Pretreatment
   
